@@ -1,0 +1,15 @@
+.DS_Store
+node_modules/
+
+# Generated footage and recordings
+/footage/
+/recordings/
+/recordings-arenas/
+
+# Separately managed Sites deployment repository
+/sites/
+
+# Local environment secrets
+.env
+.env.*
+!.env.example
